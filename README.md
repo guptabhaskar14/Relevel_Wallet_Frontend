@@ -1,7 +1,7 @@
 ## Setup Instructions
 1. Clone the git repository. 
 2. Make sure GIT and NPM are already installed on the system.
-3. Open Terminal/Git Bash Terminal. Go to the “Relevel_Linkedin_Clone_Frontend” directory.
+3. Open Terminal/Git Bash Terminal. Go to the “Relevel_Project_Listing_Frontend” directory.
 4. Run the command “npm install” to install all the necessary dependencies.
 5. Run the command “npm start” to start the development server.
 6. The Hosted app can be viewed in the browser by going to the URL - http://localhost:3000/
